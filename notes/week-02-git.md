@@ -83,3 +83,5 @@ La rama destino no se movió desde que la otra salió de ella. Git solo **despla
 
 ### Merge commit
 Las dos ramas avanzaron **en paralelo**. Git **crea un commit nuevo con dos padres** que une las dos historias. Forma un diamante:
+
+Cuando hay un error en el merge, Git te avisa y VS Code te da la opcion de resolver el conflicto manualmente
